@@ -6,7 +6,7 @@
   "main": "src/index.js",
   "dependencies": {
     "classnames": "2.2.6",
-    "lodash": "4.17.15",
+    "lodash": "4.17.19",
     "react": "experimental",
     "react-dom": "experimental",
     "react-error-boundary": "1.2.5",
